@@ -1,0 +1,11 @@
+.slider-value {
+  position: relative;
+  display: inline-block;
+  white-space: nowrap;
+  top: 20px;
+  color: #222222;
+  -webkit-transform: translateX(-30%);
+  -moz-transform: translateX(-30%);
+  -ms-transform: translateX(-30%);
+  transform: translateX(-30%);
+}

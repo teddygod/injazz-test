@@ -1,0 +1,18 @@
+@import "setings";
+
+
+@media all and (min-width: 1601px) {
+  .top_main_slider {
+
+	#slider_main-prev {
+	  left: -16%;
+	}
+
+	#slider_main-next {
+	  right: -16%;
+	  float: right;
+	}
+  }
+
+
+}

@@ -1,0 +1,21 @@
+
+.catalog {
+  &_page {padding: 2rem 0;}
+  &_block {
+	display: flex;
+	flex: 1 1 auto;
+	justify-content: space-between;
+	align-items: stretch;
+  }
+
+  
+
+}
+.breadcrumb {
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+  align-items: baseline;
+  a{ padding: 0 3px;
+	&:hover{text-decoration: underline; padding: 0 3px;}}
+}
