@@ -2,764 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73024e8a-2f03-432a-b86b-444938302176" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/acoustic-guitar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/apple-ipod.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/big-bongo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/big-gong.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/big-harp.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/big-headphones-with-microphone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/big-metronome.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/big-old-piano.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/big-speaker.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/big-tambourine.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/big-vintage-mic.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/blank-cd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/car-radio.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/cd-player-with-earphones.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/circular-pause-button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/circular-play-button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/circular-stop-button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/classical-music.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/concert-sportlight.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/digital-music-player.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/dj-mixer-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/dj-mixer-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/dj-mixer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/dj-music-player.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/dj-with-headphones.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/double-plug.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/download-music.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/drum-and-two-drumsticks.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/drum-kit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/drum-with-support.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/electric-guitar-amplifier.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/electric-guitar-with-cable.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/equalizer-bars.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/grand-piano-overhead-view.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/guitar-plectrum-with-hand.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/harp-with-three-strings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/headphones-with-mic.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/hevy-metal-electric-guitar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/inclined-cello.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/inclined-clarinet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/inclined-dombra.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/inclined-flute.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/inclined-mandolin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/inclined-saxofon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/inclined-trumpet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/ipod-with-earphones.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/jazz-guitar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/jazzy-trumpet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/long-synthesizer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/long-trumpet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/microphone-with-long-cable.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/microphone-with-wire.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/music-cloud.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/music-equalizer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/music-files.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/music-headphones.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/music-on-laptop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/music-player-options.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/music-quaver.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/music-recorder-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/music-recorder-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/music-recorder.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/music-stand.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/music-triangle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/old-audio-recorder.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/old-gramophone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/old-radio-with-antenna.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/old-radio-with-short-antenna.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/one-accordion.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/one-bugle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/one-harmonica.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/one-music-note.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/pendrive-device.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/percussion-bongo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/peruvian-pipe.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/piano-keys.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/rap-music.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/repeat-button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/retro-record-player.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/rock-and-roll.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/round-power-button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/russian-balalaika.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/settings-menu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/shout-megaphone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/smartphone-with-music.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/sound-system-with-big-speakers.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/star-with-microphone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/synthesizer-with-support.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/three-equalizer-bars.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/transparent-cassete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/tuning-fork-vibrating.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/two-bongos.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/two-drumsticks.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/two-maracas.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/vintage-jukebox.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/vintage-radio-microphone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/vinyl-record.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/volume-wheel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/walkman-with-earphones.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/png/xylophone-with-stick.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/3d.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/award-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/award.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/big-cd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/big-old-microphone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/big-tv.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/big-video-projector.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/calendar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/camcorder-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/camcorder.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/chair-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/chair-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/chair.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/chairs.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/cinema-award.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/cinema-camera.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/cinema-hall.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/cinema-light-with-cable.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/cinema-light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/cinema-microphone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/cinema-seat.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/cinema-star.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/coffee.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/computer-video.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/credit-card-and-ticket.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/diaphragm.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/director-chair.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/dvd-player.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/exit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/fabric-for-movies.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/fast-forward.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/film-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/film-list.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/film-reel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/film-strip-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/film-strip.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/film.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/go-pro.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/golden-globe-award.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/hamburger-and-drink.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/hd-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/hd-monitor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/headphone-with-microphone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/headphones.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/horizontal-film-strip.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/horn-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/horn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/imac.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/inclined-videocassette.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/laptop-with-video-player.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/light-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/lights.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/little-camcorder.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/manager.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/microphone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/modern-horn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/money.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/movie-director.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/movie-light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/movie-theater.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/movie-tickets.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/no-camera.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/no-signal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/no-smoke-signal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/old-3d-glasses.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/old-projector.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/old-television.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/old-tv.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/on-button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/oscar-academy-award.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/photo-film.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/play-round-button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/play-video.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/plug.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/popcorn-box.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/popcorn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/premiere-fencing.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/projector.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/red-carpet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/remote-control.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/round-pause-button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/round-stop-button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/scene.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/slapstick-open.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/slapstick.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/soda-with-straw.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/sofa.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/sound-system.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/sound.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/television-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/television.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/ticket-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/ticket-window.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/ticket.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/tripod.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/tv-side.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/usb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/video-file.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/video-folder.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/video-on-ipad.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/video-on-smartphone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/video-player-with-plug.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/video-player.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/video-recorder.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/video-settings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/video.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/volume.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/webcam.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/png/youtube.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/accordion.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/acoustic-guitar-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/acoustic-guitar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/african-drum.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/amplifier-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/amplifier-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/amplifier-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/amplifier-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/amplifier.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/audio-mixer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/backpack.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/bass-guitar-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/bass-guitar-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/bass-guitar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/beer-bottle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/beer-can.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/big-hat.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/big-screen.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/burger.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/cable.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/cash.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/cello.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/chair.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/chimes.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/clarinet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/cymbals.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/debit-card.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/dj-mixer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/drum-set.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/electric-guitar-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/electric-guitar-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/electric-guitar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/electric-keyboard.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/equipment-box-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/equipment-box.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/event-tent.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/fan.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/fences.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/grand-piano.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/guest-room.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/guest-star.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/hand-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/hand-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/hand-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/hand-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/hand.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/harmonica.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/hot-dog.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/lighting-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/lighting-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/lighting-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/lighting-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/lighting-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/lighting-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/lighting-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/lighting.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/lights-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/lights-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/lights.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/litghting.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/metal-shirt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/microphone-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/microphone-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/microphone-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/microphone-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/microphone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/mixer-button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/mixer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/music-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/music-festival-poster.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/music.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/pocket-camera.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/rockstar-shirt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/saxophon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/sound-mixer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/sound-system.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/speaker-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/speaker-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/speaker-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/speaker-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/speaker-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/speaker-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/speaker-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/speaker.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/sportlights.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/stage-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/stage-equipment.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/stage.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/steps.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/tamborine.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/tent.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/ticket.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/toilet-paper.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/trombone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/trumpet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/turntable.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/violin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/vip.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/washable-shoes.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/png/water-bottle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/agreement.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/audio-mixer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/audio-system.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/broken-cable.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/bubbles.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/commission.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/discount.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/editer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/favorites.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/fireworks.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/flashlight.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/hdmi (1).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/hdmi.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/headphone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/headphones.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/idea.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/jack-connector (1).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/jack-connector.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/lighting (1).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/lighting (2).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/lighting.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/lights.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/mirror-ball.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/music.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/siren.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/software.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/sound-system (1).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/sound-system (2).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/sound-system.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/sportlights.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/spotlight (1).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/spotlight.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/tag.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/thread.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/usb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/wallet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/acoustic-guitar.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/apple-ipod.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/big-bongo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/big-gong.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/big-harp.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/big-headphones-with-microphone.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/big-metronome.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/big-old-piano.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/big-speaker.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/big-tambourine.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/big-vintage-mic.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/blank-cd.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/car-radio.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/cd-player-with-earphones.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/circular-pause-button.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/circular-play-button.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/circular-stop-button.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/classical-music.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/concert-sportlight.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/digital-music-player.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/dj-mixer-1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/dj-mixer-2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/dj-mixer.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/dj-music-player.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/dj-with-headphones.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/double-plug.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/download-music.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/drum-and-two-drumsticks.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/drum-kit.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/drum-with-support.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/electric-guitar-amplifier.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/electric-guitar-with-cable.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/equalizer-bars.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/grand-piano-overhead-view.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/guitar-plectrum-with-hand.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/harp-with-three-strings.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/headphones-with-mic.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/hevy-metal-electric-guitar.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/inclined-cello.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/inclined-clarinet.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/inclined-dombra.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/inclined-flute.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/inclined-mandolin.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/inclined-saxofon.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/inclined-trumpet.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/ipod-with-earphones.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/jazz-guitar.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/jazzy-trumpet.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/long-synthesizer.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/long-trumpet.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/microphone-with-long-cable.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/microphone-with-wire.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/music-cloud.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/music-equalizer.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/music-files.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/music-headphones.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/music-on-laptop.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/music-player-options.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/music-quaver.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/music-recorder-1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/music-recorder-2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/music-recorder.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/music-stand.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/music-triangle.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/old-audio-recorder.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/old-gramophone.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/old-radio-with-antenna.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/old-radio-with-short-antenna.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/one-accordion.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/one-bugle.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/one-harmonica.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/one-music-note.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/pendrive-device.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/percussion-bongo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/peruvian-pipe.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/piano-keys.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/rap-music.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/repeat-button.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/retro-record-player.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/rock-and-roll.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/round-power-button.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/russian-balalaika.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/settings-menu.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/shout-megaphone.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/smartphone-with-music.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/sound-system-with-big-speakers.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/star-with-microphone.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/synthesizer-with-support.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/three-equalizer-bars.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/transparent-cassete.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/tuning-fork-vibrating.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/two-bongos.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/two-drumsticks.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/two-maracas.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/vintage-jukebox.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/vintage-radio-microphone.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/vinyl-record.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/volume-wheel.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/walkman-with-earphones.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111535-musicon/svg/xylophone-with-stick.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/3d.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/award-1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/award.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/big-cd.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/big-old-microphone.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/big-tv.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/big-video-projector.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/calendar.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/camcorder-1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/camcorder.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/chair-1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/chair-2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/chair.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/chairs.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/cinema-award.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/cinema-camera.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/cinema-hall.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/cinema-light-with-cable.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/cinema-light.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/cinema-microphone.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/cinema-seat.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/cinema-star.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/coffee.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/computer-video.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/credit-card-and-ticket.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/diaphragm.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/director-chair.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/dvd-player.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/exit.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/fabric-for-movies.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/fast-forward.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/film-1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/film-list.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/film-reel.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/film-strip-1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/film-strip.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/film.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/go-pro.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/golden-globe-award.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/hamburger-and-drink.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/hd-logo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/hd-monitor.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/headphone-with-microphone.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/headphones.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/horizontal-film-strip.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/horn-1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/horn.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/imac.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/inclined-videocassette.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/laptop-with-video-player.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/light-1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/light.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/lights.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/little-camcorder.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/manager.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/microphone.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/modern-horn.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/money.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/movie-director.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/movie-light.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/movie-theater.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/movie-tickets.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/no-camera.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/no-signal.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/no-smoke-signal.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/old-3d-glasses.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/old-projector.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/old-television.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/old-tv.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/on-button.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/oscar-academy-award.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/photo-film.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/play-round-button.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/play-video.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/plug.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/popcorn-box.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/popcorn.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/premiere-fencing.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/projector.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/red-carpet.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/remote-control.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/round-pause-button.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/round-stop-button.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/scene.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/slapstick-open.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/slapstick.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/soda-with-straw.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/sofa.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/sound-system.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/sound.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/television-1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/television.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/ticket-1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/ticket-window.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/ticket.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/tripod.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/tv-side.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/usb.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/video-file.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/video-folder.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/video-on-ipad.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/video-on-smartphone.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/video-player-with-plug.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/video-player.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/video-recorder.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/video-settings.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/video.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/volume.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/webcam.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111664-cinemagic/svg/youtube.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/accordion.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/acoustic-guitar-1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/acoustic-guitar.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/african-drum.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/amplifier-1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/amplifier-2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/amplifier-3.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/amplifier-4.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/amplifier.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/audio-mixer.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/backpack.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/bass-guitar-1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/bass-guitar-2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/bass-guitar.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/beer-bottle.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/beer-can.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/big-hat.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/big-screen.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/burger.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/cable.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/cash.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/cello.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/chair.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/chimes.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/clarinet.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/cymbals.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/debit-card.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/dj-mixer.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/drum-set.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/electric-guitar-1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/electric-guitar-2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/electric-guitar.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/electric-keyboard.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/equipment-box-1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/equipment-box.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/event-tent.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/fan.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/fences.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/grand-piano.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/guest-room.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/guest-star.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/hand-1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/hand-2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/hand-3.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/hand-4.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/hand.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/harmonica.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/hot-dog.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/lighting-1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/lighting-2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/lighting-3.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/lighting-4.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/lighting-5.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/lighting-6.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/lighting-7.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/lighting.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/lights-1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/lights-2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/lights.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/litghting.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/metal-shirt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/microphone-1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/microphone-2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/microphone-3.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/microphone-4.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/microphone.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/mixer-button.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/mixer.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/music-1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/music-festival-poster.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/music.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/pocket-camera.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/rockstar-shirt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/saxophon.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/sound-mixer.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/sound-system.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/speaker-1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/speaker-2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/speaker-3.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/speaker-4.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/speaker-5.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/speaker-6.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/speaker-7.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/speaker.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/sportlights.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/stage-1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/stage-equipment.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/stage.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/steps.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/tamborine.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/tent.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/ticket.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/toilet-paper.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/trombone.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/trumpet.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/turntable.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/violin.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/vip.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/washable-shoes.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/111860-music-festival/svg/water-bottle.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/acoustic-guitar.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/agreement.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/audio-mixer.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/audio-system.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/broken-cable.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/bubbles.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/commission.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/discount.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/double-plug.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/editer.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/favorites.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/fireworks.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/flashlight.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/hdmi (1).svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/hdmi.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/headphone.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/headphones.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/idea.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/jack-connector (1).svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/jack-connector.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/light.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/lighting (1).svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/lighting (2).svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/lighting.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/lights.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/mirror-ball.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/mixer.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/music-player.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/music.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/siren.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/software.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/sound-system (1).svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/sound-system (2).svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/sound-system.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/speakers.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/sportlights.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/spotlight (1).svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/spotlight.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/stars.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/svg-menu-icons/acoustic-guitar.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/svg-menu-icons/agreement.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/svg-menu-icons/audio-mixer.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/svg-menu-icons/audio-system.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/svg-menu-icons/broken-cable.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/svg-menu-icons/bubbles.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/svg-menu-icons/commission.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/svg-menu-icons/discount.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/svg-menu-icons/double-plug.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/svg-menu-icons/editer.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/svg-menu-icons/favorites.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/svg-menu-icons/fireworks.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/svg-menu-icons/flashlight.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/svg-menu-icons/hdmi (1).svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/svg-menu-icons/hdmi.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/svg-menu-icons/headphone.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/svg-menu-icons/headphones.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/svg-menu-icons/idea.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/svg-menu-icons/jack-connector (1).svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/svg-menu-icons/jack-connector.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/svg-menu-icons/light.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/svg-menu-icons/lighting (1).svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/svg-menu-icons/lighting (2).svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/svg-menu-icons/lighting.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/svg-menu-icons/lights.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/svg-menu-icons/mirror-ball.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/svg-menu-icons/mixer.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/svg-menu-icons/music-player.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/svg-menu-icons/music.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/svg-menu-icons/siren.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/svg-menu-icons/software.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/svg-menu-icons/sound-system (1).svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/svg-menu-icons/sound-system (2).svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/svg-menu-icons/sound-system.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/svg-menu-icons/speakers.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/svg-menu-icons/sportlights.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/svg-menu-icons/spotlight (1).svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/svg-menu-icons/spotlight.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/svg-menu-icons/stars.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/svg-menu-icons/tag.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/svg-menu-icons/thread.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/svg-menu-icons/usb.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/svg-menu-icons/wallet.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/tag.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/thread.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/usb.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_menu/wallet.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/doubletaptogo.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/animation.css" afterPath="$PROJECT_DIR$/css/animation.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/injazz_icon-codes.css" afterPath="$PROJECT_DIR$/css/injazz_icon-codes.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/injazz_icon-embedded.css" afterPath="$PROJECT_DIR$/css/injazz_icon-embedded.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/injazz_icon.css" afterPath="$PROJECT_DIR$/css/injazz_icon.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/stile.css" afterPath="$PROJECT_DIR$/css/stile.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/stile.css.map" afterPath="$PROJECT_DIR$/css/stile.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style1.css" afterPath="$PROJECT_DIR$/css/style1.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font/injazz_icon.svg" afterPath="$PROJECT_DIR$/font/injazz_icon.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/_goods.scss" afterPath="$PROJECT_DIR$/scss/_goods.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/_header.scss" afterPath="$PROJECT_DIR$/scss/_header.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/_main.scss" afterPath="$PROJECT_DIR$/scss/_main.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/_media_all.scss" afterPath="$PROJECT_DIR$/scss/_media_all.scss" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inJazz-v.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -896,7 +145,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_header.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_header.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scss/_header.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="570">
@@ -976,11 +225,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+            <state relative-caret-position="68">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -1096,12 +345,12 @@
         <option value="$PROJECT_DIR$/scss/stile.scss" />
         <option value="$PROJECT_DIR$/scss/_catalog.scss" />
         <option value="$PROJECT_DIR$/scss/.gitignore" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/scss/_main.scss" />
         <option value="$PROJECT_DIR$/scss/_media_all.scss" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/scss/_goods.scss" />
         <option value="$PROJECT_DIR$/scss/_header.scss" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -1187,72 +436,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inJazz-v" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inJazz-v" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="icon_menu" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inJazz-v" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inJazz-v" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="icon_menu" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="111535-musicon" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inJazz-v" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inJazz-v" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="icon_menu" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="111535-musicon" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="png" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -1408,7 +591,7 @@
       <workItem from="1504945313136" duration="100528000" />
       <workItem from="1505241698804" duration="7841000" />
       <workItem from="1505255757237" duration="386000" />
-      <workItem from="1505370657962" duration="4927000" />
+      <workItem from="1505370657962" duration="5219000" />
     </task>
     <task id="LOCAL-00001" summary="ignore add">
       <created>1505283975847</created>
@@ -1438,24 +621,30 @@
       <option name="project" value="LOCAL" />
       <updated>1505284536423</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Correct menu">
+      <created>1505379968503</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1505379968503</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="187393000" />
+    <option name="totallyTimeSpent" value="187685000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16950959" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16950959" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26815644" sideWeight="0.49570355" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1821229" sideWeight="0.5021482" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3270525" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.7374062" sideWeight="0.49785176" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33547696" sideWeight="0.49785176" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43741587" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43729904" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1478,18 +667,18 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1821229" sideWeight="0.5021482" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.9687151" sideWeight="0.49785176" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.64022344" sideWeight="0.49785176" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3270525" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16312057" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33547696" sideWeight="0.49785176" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43741587" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20730397" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16977078" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16950959" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1518,7 +707,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ignore add" />
-    <option name="LAST_COMMIT_MESSAGE" value="ignore add" />
+    <MESSAGE value="Correct menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="Correct menu" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -2044,13 +1234,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="28441">
           <caret line="1673" column="0" lean-forward="false" selection-start-line="1673" selection-start-column="0" selection-end-line="1673" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
           <folding />
         </state>
       </provider>
@@ -2070,6 +1253,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2310,6 +1494,14 @@
             <element signature="e#9342#9382#0" expanded="false" />
             <element signature="e#9398#9619#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
