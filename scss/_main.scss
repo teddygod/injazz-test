@@ -262,6 +262,7 @@ section.big_tabs {
   justify-content: space-between;
   align-items: center;
   flex: 1 1 auto;
+
   //width: 100%;
   a {
 	display: block;
@@ -298,10 +299,16 @@ section.big_tabs {
   @media screen and (max-width: 800px){
 	max-width: $maxWidth7;
   }
+  @media screen and (max-width: 768px){
+	display: none;
+  }
   
   .main_scroll {
 	position: relative;
 	top: -8rem;
+	@media screen and (max-width: 768px){
+	  display: none;
+	}
   }
   #slider_main-prev {
 	left: -4%;
@@ -329,6 +336,25 @@ section.big_tabs {
   }
 }
 
+
+.brands_sliderOff {
+  width: 100%;
+  display: none;
+  @media screen and (max-width: 768px){
+	display: block;
+  }
+  .tutorial_brands{
+	  display: flex;
+	  justify-content: space-around;
+	  flex-wrap: wrap;
+	li {
+	  display: block;
+	  margin-bottom: 1.5rem;
+	  opacity: 0.5;
+	  &:hover {opacity: 1;}
+	}
+  }
+}
 .alphabet_item {
   font-size:$fsl;
   opacity: 0.5;
@@ -370,9 +396,7 @@ section.big_tabs {
   }
 }
 .video{
-  @media screen and (max-width: 768px){
-	display: none;
-  }
+
   &_block {
 	display: flex;
 	justify-content: space-between;
@@ -391,6 +415,9 @@ section.big_tabs {
 	  top: 30%;
 	  left: 31%;
 	  cursor: pointer;
+	  @media screen and (max-width: 768px){
+		font-size: 4rem;
+	  }
 	}
   }
 }
@@ -401,10 +428,16 @@ section.big_tabs {
 	display: flex;
 	justify-content: space-between;
 	align-items: self-start;
+	@media screen and (max-width: 768px){
+	  flex-wrap: wrap;
+	}
   }
   &__slider-item {
 	width: 30%;
 	max-width: 320px;
+	@media screen and (max-width: 768px){
+	  width: 49%;
+	}
 	h3 {
 		margin: 2rem 0;
 	}
@@ -423,6 +456,12 @@ section.big_tabs {
 	  font-size:$fsm;
 	  text-transform: uppercase;
 	  margin-bottom: 2rem;
+	  @media screen and (max-width: 768px){
+		width: 110%;
+		position: relative;
+		left: -5%;
+	  }
+
 	  a {
 		padding: .3rem;
 		display: block;
@@ -444,6 +483,16 @@ span[class*=slider_news] a {
 
   .main_scroll {
 	top: -19rem;
+	@media screen and (max-width: 768px){
+	  display: none;
+	}
+  }
+  .read_more-news {
+	text-align: right;
+	a {
+	  text-decoration: underline;
+	  color: #595959;
+	}
   }
 
 }
@@ -601,6 +650,9 @@ label[for="thelphone"] {
 label[for="you_message"] {
   width: 70%;
   margin-right: 10%;
+  @media screen and (max-width: 768px){
+	width: 60%;
+  }
 }
 
  .btn_callback {
@@ -611,6 +663,9 @@ label[for="you_message"] {
    font-size:$fsl;
   text-transform: uppercase;
   color: #fff;
+   @media screen and (max-width: 768px){
+	 width: 30%;
+   }
 }
 
 .seo_text {

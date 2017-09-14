@@ -57,6 +57,7 @@ input, textarea, select {outline: none;}
   text-transform: uppercase;
   font-weight: 400;
   letter-spacing: 2px;
+  margin-bottom: 2rem;
 }
 .row {
   padding: 0px 1.5rem;
@@ -112,6 +113,9 @@ input, textarea, select {outline: none;}
 	}
 	@media screen and (max-width: 800px){
 	  max-width: $maxWidth7;
+	  display: flex;
+	  align-items: baseline;
+	  flex: 1 1 auto;
 	}
 	.top_container {
 	  -webkit-box-flex: 0;
@@ -120,6 +124,9 @@ input, textarea, select {outline: none;}
 	  display: -webkit-box;
 	  display: -ms-flexbox;
 	  display: flex;
+	  @media screen and (max-width: 800px){
+		margin-top: .5rem;
+	  }
 	}
 	.top_container-1 {
 	  float: left;
@@ -133,6 +140,11 @@ input, textarea, select {outline: none;}
 	  order: 1;
 	  width: calc(20% - 1rem);
 	  margin-right: 1rem;
+	  .social_row{
+		@media screen and (max-width: 800px){
+		  display: none;
+		}
+	  }
 	}
 	.top_container-2 {
 	  -webkit-box-orient: vertical;
@@ -143,6 +155,14 @@ input, textarea, select {outline: none;}
 	  -ms-flex-order: 2;
 	  order: 2;
 	  width: 80%;
+	  @media screen and (max-width: 800px){
+		width: 55%;
+	  }
+	  .lang_block{
+		@media screen and (max-width: 800px){
+		  display: none;
+		}
+	  }
 	}
 	.top_container-3 {
 	  float: left;
@@ -158,6 +178,14 @@ input, textarea, select {outline: none;}
 	  margin-right: 1rem;
 	  margin-top: 1.8rem;
 	  border: solid 2px #b7b7b7;
+	  @media screen and (max-width: 800px){
+		margin: 0;
+		width: 100%;
+		-webkit-box-ordinal-group: 5;
+		-ms-flex-order: 4;
+		order: 4;
+		float: none;
+	  }
 	}
 	.top_container-4 {
 	  -webkit-box-orient: vertical;
@@ -168,6 +196,24 @@ input, textarea, select {outline: none;}
 	  -ms-flex-order: 4;
 	  order: 4;
 	  width: 20%;
+	  @media screen and (max-width: 800px){
+		width: 10%;
+		-webkit-box-ordinal-group: 4;
+		-ms-flex-order: 3;
+		order: 3;
+	  }
+	  .catr-row{
+		p{
+		  @media screen and (max-width: 800px){
+			display: none;
+		  }
+		}
+		ul li:first-child{
+		  @media screen and (max-width: 800px){
+			display: none;
+		  }
+		}
+	  }
 	}
 	.catr-row ul {
 	  display: -webkit-box;
@@ -180,6 +226,9 @@ input, textarea, select {outline: none;}
   }
 }
 
+#nav {
+  display: none;
+}
 .search_block {
   display: flex;
   flex: 1 1 auto;
@@ -213,12 +262,13 @@ select, input {
   }
 }
 
-
-
-  .row_bottom {
+.row_bottom {
 	width: 100%;
 	padding: 0 1.5rem;
 	background: $violet;
+	@media screen and (max-width: 800px){
+	  /*display: none;*/
+	}
 	.content{
 	  display: -webkit-box;
 	  display: -ms-flexbox;
@@ -256,22 +306,25 @@ select, input {
 
 ul.dropDown {
   display: none;
-  width: 100%;
+  width: 108%;
   background: #fff;
   position: absolute;
   z-index: 999;
   padding: 2rem 3rem;
-  columns: 5;
+  justify-content: left;
+  align-items: stretch;
+  flex: 1 1 auto;
+  flex-wrap: wrap;
   top: 3rem;
-  left: -3rem;
+  left: -4%;
   -webkit-transition: all 700ms ease-out;
   -moz-transition: all 700ms ease-out;
   -ms-transition: all 700ms ease-out;
   -o-transition: all 700ms ease-out;
   transition: all 700ms ease-out;
-  &:hover {display: block;}
+  &:hover {display: flex;}
 }
-  .nav{
+.nav{
 	display: -webkit-box;
 	display: -ms-flexbox;
 	display: flex;
@@ -281,10 +334,10 @@ ul.dropDown {
 	-webkit-box-align: stretch;
 	-ms-flex-align: stretch;
 	align-items: stretch;
-	li.active{font-weight: bold;}
+	/*li.active{font-weight: bold;}*/
 	a {
 	  color: #fff;
-	  font-size:$fss;
+	  font-size:$fsm;
 	  text-transform: uppercase;
 	  display: block;
 	  padding: 1.5rem 0;
@@ -296,18 +349,35 @@ ul.dropDown {
 	  }
 	}
 	  li:hover > ul.dropDown {
-		  display: block;
+		  display: flex;
 	  }
 	}
 
-
 .dropDown li {
   border-bottom: solid 1px transparent;
-  & a {
+  max-width: 20%;
+  margin-bottom: 1rem;
+  margin-right: 5%;
+   a {
 	color: #333;
 	padding: initial;
 	&:hover {
 	  text-decoration: underline;
+	  //font-weight: bold;
+	}
+  }
+  img {
+	width: 20%;
+  }
+
+  .sub_dropDown li.title_chapt-item {
+	width: 100%;
+	max-width: 100%;
+	margin-bottom: 0.5rem;
+	 a {
+	  text-transform: initial;
+	  color: $violet;
+	  font-size: 16px;
 	}
   }
 }
