@@ -268,6 +268,9 @@ section.big_tabs {
 	display: block;
 	width: 175px;
 	text-align: center;
+	opacity: 0.6;
+	transition: all 700ms ease-out;
+	&:hover{opacity: 1;}
   }
 }
 .brands_alphabet {
