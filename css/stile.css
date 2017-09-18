@@ -1536,21 +1536,24 @@ label[for="you_message"] {
   padding: 0.6rem; }
 
 #ui-id-1 {
-  border: solid 2px #f90; }
+  border: solid 2px #f90;
+  color: #333; }
   #ui-id-1:hover {
-    background-color: #f90;
+    background-color: #f90 !important;
     color: #fff; }
 
 #ui-id-2 {
-  border: solid 2px #c92222; }
+  border: solid 2px #c92222;
+  color: #333; }
   #ui-id-2:hover {
-    background-color: #c92222;
+    background-color: #c92222 !important;
     color: #fff; }
 
 #ui-id-3 {
-  border: solid 2px #314b70; }
+  border: solid 2px #314b70;
+  color: #333; }
   #ui-id-3:hover {
-    background-color: #314b70;
+    background-color: #314b70 !important;
     color: #fff; }
 
 .slider_goods-next {
@@ -1752,6 +1755,168 @@ label[for="you_message"] {
   background: #f9f9f9;
   padding: .3rem;
   display: inline-block; }
+
+.ui-widget-content {
+  border: none;
+  background: transparent; }
+
+.ui-widget.ui-widget-content {
+  border: none; }
+
+.ui-corner-all, .ui-corner-top, .ui-corner-left, .ui-corner-tl {
+  border-top-left-radius: 0; }
+
+.ui-corner-all, .ui-corner-top, .ui-corner-right, .ui-corner-tr {
+  border-top-right-radius: 0; }
+
+.ui-corner-all, .ui-corner-bottom, .ui-corner-left, .ui-corner-bl {
+  border-bottom-left-radius: 0; }
+
+.ui-corner-all, .ui-corner-bottom, .ui-corner-right, .ui-corner-br {
+  border-bottom-right-radius: 0; }
+
+.ui-tabs .ui-tabs-panel {
+  padding: 0; }
+
+.ui-helper-reset {
+  line-height: initial; }
+
+.ui-widget-header {
+  border: none;
+  background: inherit;
+  color: inherit;
+  font-weight: initial; }
+
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active, a.ui-button:active, .ui-button:active, .ui-button.ui-state-active:hover {
+  border: none;
+  background: transparent;
+  font-weight: normal;
+  color: #fff; }
+
+.ui-tabs .ui-tabs-nav li {
+  float: none;
+  margin: 0; }
+
+.ui-tabs .ui-tabs-nav li.ui-tabs-active {
+  margin-bottom: 0;
+  padding-bottom: 0; }
+
+.ui-tabs .ui-tabs-nav {
+  padding: 0; }
+
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default, .ui-button, html .ui-button.ui-state-disabled:hover, html .ui-button.ui-state-disabled:active {
+  border: none;
+  background: transparent;
+  font-weight: normal;
+  color: initial; }
+
+.you_sea {
+  padding: 2rem 0; }
+  .you_sea .goods {
+    display: flex;
+    flex: 1 1 auto;
+    justify-content: space-between; }
+    @media screen and (max-width: 768px) {
+      .you_sea .goods {
+        flex-wrap: wrap; } }
+    .you_sea .goods_item {
+      max-width: 23%; }
+      @media screen and (max-width: 768px) {
+        .you_sea .goods_item {
+          max-width: 48%;
+          margin-bottom: 2rem; } }
+  .you_sea .outside p {
+    display: block; }
+  .you_sea .main_scroll {
+    position: relative;
+    top: -20rem;
+    font-size: 3rem;
+    color: #f6f6f6;
+    display: flex;
+    justify-content: space-between; }
+    .you_sea .main_scroll a {
+      color: #9b9b9b; }
+    .you_sea .main_scroll .bx-prev {
+      display: block;
+      position: absolute;
+      left: -4rem; }
+      @media screen and (max-width: 1024px) {
+        .you_sea .main_scroll .bx-prev {
+          left: -2rem; } }
+      @media screen and (max-width: 768px) {
+        .you_sea .main_scroll .bx-prev {
+          display: none; } }
+    .you_sea .main_scroll .bx-next {
+      display: block;
+      position: absolute;
+      right: -3rem; }
+      @media screen and (max-width: 1024px) {
+        .you_sea .main_scroll .bx-next {
+          right: -1rem; } }
+      @media screen and (max-width: 768px) {
+        .you_sea .main_scroll .bx-next {
+          display: none; } }
+
+.s-pagination {
+  text-align: center; }
+  .s-pagination .pagination-holder {
+    position: relative;
+    padding: 0 50px;
+    height: 45px;
+    display: inline-block; }
+    .s-pagination .pagination-holder .pagination-content {
+      background: #fff;
+      padding: 0 15px;
+      display: flex;
+      justify-content: center;
+      align-items: center; }
+      .s-pagination .pagination-holder .pagination-content li {
+        width: 40px; }
+        .s-pagination .pagination-holder .pagination-content li a {
+          width: 100%;
+          display: inline-block;
+          font-size: 18px;
+          line-height: 45px;
+          color: #222222; }
+          .s-pagination .pagination-holder .pagination-content li a:hover {
+            color: #222222; }
+        .s-pagination .pagination-holder .pagination-content li.active a {
+          font-weight: bold; }
+        .s-pagination .pagination-holder .pagination-content li .pag_btn {
+          position: absolute;
+          display: none;
+          height: 100%;
+          line-height: 100%;
+          width: 50px;
+          top: 0;
+          left: 0; }
+          .s-pagination .pagination-holder .pagination-content li .pag_btn img {
+            display: inline-block;
+            height: 20px;
+            width: auto;
+            position: relative;
+            top: 50%;
+            -webkit-transform-origin: 50%;
+            -moz-transform-origin: 50%;
+            -ms-transform-origin: 50%;
+            transform-origin: 50%; }
+          .s-pagination .pagination-holder .pagination-content li .pag_btn_right {
+            right: 0;
+            left: auto; }
+            .s-pagination .pagination-holder .pagination-content li .pag_btn_right img {
+              -webkit-transform: translateY(-50%) rotate(180deg);
+              -moz-transform: translateY(-50%) rotate(180deg);
+              -ms-transform: translateY(-50%) rotate(180deg);
+              transform: translateY(-50%) rotate(180deg); }
+          .s-pagination .pagination-holder .pagination-content li .pag_btn_left img {
+            -webkit-transform: translateY(-50%);
+            -moz-transform: translateY(-50%);
+            -ms-transform: translateY(-50%);
+            transform: translateY(-50%); }
+          .s-pagination .pagination-holder .pagination-content li .pag_btn.visible {
+            display: inline-block; }
+      .s-pagination .pagination-holder .pagination-content .prev.disabled {
+        cursor: default; }
 
 .slider-value {
   position: relative;
