@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73024e8a-2f03-432a-b86b-444938302176" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inJazz-v.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/includes/.in._mixins.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/includes/.in._mixins.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/includes/.in._mixins.scss" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog.html" afterPath="$PROJECT_DIR$/catalog.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/stile.css" afterPath="$PROJECT_DIR$/css/stile.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/stile.css.map" afterPath="$PROJECT_DIR$/css/stile.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/_catalog.scss" afterPath="$PROJECT_DIR$/scss/_catalog.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/_goods.scss" afterPath="$PROJECT_DIR$/scss/_goods.scss" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -463,26 +451,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_catalog.scss" pinned="false" current-in-tab="false">
+      <file leaf-file-name="_catalog.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scss/_catalog.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="400" column="25" lean-forward="true" selection-start-line="400" selection-start-column="25" selection-end-line="400" selection-end-column="25" />
+            <state relative-caret-position="2040">
+              <caret line="158" column="4" lean-forward="false" selection-start-line="158" selection-start-column="4" selection-end-line="158" selection-end-column="4" />
               <folding>
-                <element signature="e#7115#8218#0" expanded="false" />
-                <element signature="e#7714#7976#0" expanded="false" />
-                <element signature="e#7987#8161#0" expanded="false" />
+                <element signature="e#7088#8191#0" expanded="false" />
+                <element signature="e#7687#7949#0" expanded="false" />
+                <element signature="e#7960#8134#0" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_mixins.scss" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/scss/includes/_mixins.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -895,14 +873,22 @@
       <option name="project" value="LOCAL" />
       <updated>1505460218599</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Catalog page">
+      <created>1505746226996</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1505746226996</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="252737000" />
+    <option name="totallyTimeSpent" value="253265000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1552" height="850" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2627346" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26815644" sideWeight="0.49570355" order="6" side_tool="false" content_ui="tabs" />
@@ -910,7 +896,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32635984" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40167364" sideWeight="0.49463806" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.061366808" sideWeight="0.49463806" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31241283" sideWeight="0.49731904" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -988,7 +974,8 @@
     <MESSAGE value="Correct menu" />
     <MESSAGE value="Correct menu 1" />
     <MESSAGE value="Create mob_menu" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create mob_menu" />
+    <MESSAGE value="Catalog page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Catalog page" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1714,18 +1701,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scss/_catalog.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="400" column="25" lean-forward="true" selection-start-line="400" selection-start-column="25" selection-end-line="400" selection-end-column="25" />
-          <folding>
-            <element signature="e#7115#8218#0" expanded="false" />
-            <element signature="e#7714#7976#0" expanded="false" />
-            <element signature="e#7987#8161#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scss/includes/.in._mixins.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1744,9 +1719,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scss/includes/_mixins.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/_catalog.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2040">
+          <caret line="158" column="4" lean-forward="false" selection-start-line="158" selection-start-column="4" selection-end-line="158" selection-end-column="4" />
+          <folding>
+            <element signature="e#7088#8191#0" expanded="false" />
+            <element signature="e#7687#7949#0" expanded="false" />
+            <element signature="e#7960#8134#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

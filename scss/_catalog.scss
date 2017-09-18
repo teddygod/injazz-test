@@ -157,8 +157,6 @@
 	  }
 	}
 
-
-
 	//TODO - Цена
 	.modal-block {
 	  max-width: 90%;
@@ -166,7 +164,6 @@
 	  #ds-mf-slider-attributes {
 		border: none;
 	  }
-
 	  .ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default, .ui-button, html .ui-button.ui-state-disabled:hover, html .ui-button.ui-state-disabled:active {
 		border: none;
 		background: $violet;
@@ -177,7 +174,6 @@
 		border: none;
 		height: 3px;
 	  }
-
 	  .ui-widget.ui-widget-content {
 		border: none;
 		background: transparent;
@@ -187,7 +183,6 @@
 		  background: $violet;
 		}
 	  }
-
 	  .ui-slider-horizontal .ui-slider-handle {
 		top: -0.5em;
 		span.slider-value {
@@ -197,7 +192,6 @@
 		}
 	  }
 	}
-
 	.filter_ok {
 	  display: block;
 	  border: none;
@@ -211,12 +205,8 @@
 	  font-size: 18px;
 	  text-align: center;
 	}
-
-
 }
-
   li[class$=-item] a {padding-left: 5px;}
-
 
 }
 .sort {
@@ -247,8 +237,6 @@
 	  }
 	}
   }
-
-
 }
 .filter_result {
   .delet_filter-item:hover {
@@ -268,63 +256,50 @@
   border: none;
   background: transparent;
 }
-
 .ui-widget.ui-widget-content {
   border: none;
 }
 .ui-corner-all,.ui-corner-top,.ui-corner-left,.ui-corner-tl {
   border-top-left-radius:0;
 }
-
 .ui-corner-all,.ui-corner-top,.ui-corner-right,.ui-corner-tr {
   border-top-right-radius:0;
 }
-
 .ui-corner-all,.ui-corner-bottom,.ui-corner-left,.ui-corner-bl {
   border-bottom-left-radius:0;
 }
-
 .ui-corner-all,.ui-corner-bottom,.ui-corner-right,.ui-corner-br {
   border-bottom-right-radius:0;
 }
-
-
 .ui-tabs .ui-tabs-panel {
   padding: 0;
 }
-
 .ui-helper-reset {
   line-height: initial;
 }
-
 .ui-widget-header {
   border: none;
   background: inherit;
   color: inherit;
   font-weight: initial;
 }
-
 .ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active, a.ui-button:active, .ui-button:active, .ui-button.ui-state-active:hover {
   border: none;
   background: transparent;
   font-weight: normal;
   color: #fff;
 }
-
 .ui-tabs .ui-tabs-nav li {
   float: none;
   margin: 0;
 }
-
 .ui-tabs .ui-tabs-nav li.ui-tabs-active {
   margin-bottom: 0;
   padding-bottom: 0;
 }
-
 .ui-tabs .ui-tabs-nav {
   padding: 0;
 }
-
 .ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default, .ui-button, html .ui-button.ui-state-disabled:hover, html .ui-button.ui-state-disabled:active {
   border: none;
   background: transparent;
@@ -334,9 +309,7 @@
 
 //TODO end jquery-ui
 
-
 .you_sea{
-
   padding: 2rem 0;
   .goods {
 	display: flex;
@@ -390,7 +363,6 @@
 	}
   }
 }
-
 .s-pagination {
   text-align: center;
   .pagination-holder {
