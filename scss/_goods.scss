@@ -198,15 +198,18 @@
 
 #ui-id-1 {
   border: solid 2px #f90;
-  &:hover{background-color: #f90;color: #fff;}
+  color: #333;
+  &:hover{background-color: #f90!important;color: #fff;}
 }
 #ui-id-2 {
   border: solid 2px #c92222;
-  &:hover{background-color: #c92222;color: #fff;}
+  color: #333;
+  &:hover{background-color: #c92222!important;color: #fff;}
 }
 #ui-id-3 {
   border: solid 2px #314b70;
-  &:hover{background-color: #314b70;color: #fff;}
+  color: #333;
+  &:hover{background-color: #314b70!important;color: #fff;}
 }
 
 
