@@ -9,6 +9,9 @@ footer{
   justify-content: space-between;
   margin: 1rem 0;
   text-transform: uppercase;
+  @media screen and (max-width: 800px){
+	display: none;
+  }
   li a {
 	display: block;
 	padding: 2px 10px;
@@ -25,6 +28,9 @@ footer{
   color: #333;
   align-items: flex-end;
   font-size: 12px;
+  @media screen and (max-width: 800px){
+	font-size: 10px;
+  }
 }
 
 .corrupted {

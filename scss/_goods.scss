@@ -94,10 +94,10 @@
 		  width: 0;
 		  height: 0;
 		  border-style: solid;
-		  border-width: 14px 14px 0 0;
+		  border-width: 10px 14px 0 0;
 		  position: absolute;
 		  right: -14px;
-		  bottom: -14px;
+		  bottom: -10px;
 		}
 		span:after {
 		  display: block;
@@ -112,7 +112,7 @@
 	  .stock{
 		background: #c92222;
 		&:after {
-		  border-color: #c92222 transparent transparent transparent;
+		  border-color: #a41c1c transparent transparent transparent;
 		}
 		span:after {
 		  background: #c92222;
@@ -122,7 +122,7 @@
 	  .top{
 		background: #f90;
 		&:after {
-		  border-color: #f90 transparent transparent transparent;
+		  border-color: #a46100 transparent transparent transparent;
 		}
 		span:after {
 		  background: #f90;
@@ -132,7 +132,7 @@
 	  .new {
 		background: #314b70;
 		&:after {
-		  border-color: #314b70 transparent transparent transparent;
+		  border-color: #2c3b5c transparent transparent transparent;
 		}
 		span:after {
 		  background: #314b70;

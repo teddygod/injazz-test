@@ -126,7 +126,8 @@ img {width: 100%;}
 	  display: -ms-flexbox;
 	  display: flex;
 	  @media screen and (max-width: 800px){
-		margin-top: .5rem;
+		margin-top: 0.2rem;
+		margin-bottom: 0.8rem;
 	  }
 	}
 	.top_container-1 {
@@ -136,6 +137,10 @@ img {width: 100%;}
 	  order: 1;
 	  width: calc(18% - 2rem);
 	  margin-right: 2rem;
+	  @media screen and (max-width: 800px){
+		width: calc(22% - 1rem);
+		margin-right: 1rem;
+	  }
 	  .social_row{
 		@media screen and (max-width: 800px){
 		  display: none;
@@ -324,6 +329,9 @@ img {width: 100%;}
 			  color: #fff;
 			  right: 10%;
 			  top: 17%;
+			  @media screen and (max-width: 800px){
+				right: -100%;
+				}
 			}
 		  }
 		  li:first-child {
