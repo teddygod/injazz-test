@@ -114,8 +114,14 @@ img {width: 100%;}
 	}
 	@media screen and (max-width: 800px){
 	  max-width: $maxWidth7;
+	  display: -webkit-box;
+	  display: -ms-flexbox;
 	  display: flex;
+	  -webkit-box-align: baseline;
+	  -ms-flex-align: baseline;
 	  align-items: baseline;
+	  -webkit-box-flex: 1;
+	  -ms-flex: 1 1 auto;
 	  flex: 1 1 auto;
 	}
 	.top_container {
@@ -133,7 +139,12 @@ img {width: 100%;}
 	.top_container-1 {
 	  float: left;
 	  clear: right;
+	  -webkit-box-orient: vertical;
+	  -webkit-box-direction: normal;
+	  -ms-flex-direction: column;
 	  flex-direction: column;
+	  -webkit-box-ordinal-group: 2;
+	  -ms-flex-order: 1;
 	  order: 1;
 	  width: calc(18% - 2rem);
 	  margin-right: 2rem;
@@ -146,7 +157,10 @@ img {width: 100%;}
 		  display: none;
 		}
 		.cos_icons {
+		  display: -webkit-box;
+		  display: -ms-flexbox;
 		  display: flex;
+		  -ms-flex-pack: distribute;
 		  justify-content: space-around;
 		  li {
 			background: #000;
@@ -170,24 +184,43 @@ img {width: 100%;}
 	  }
 	}
 	.top_container-2 {
+	  -webkit-box-orient: vertical;
+	  -webkit-box-direction: normal;
+	  -ms-flex-direction: column;
 	  flex-direction: column;
+	  -webkit-box-ordinal-group: 3;
+	  -ms-flex-order: 2;
 	  order: 2;
 	  width: 80%;
 	  @media screen and (max-width: 800px){
 		width: 55%;
 	  }
 	  .top_top-row {
+		display: -webkit-box;
+		display: -ms-flexbox;
 		display: flex;
+		-webkit-box-pack: justify;
+		-ms-flex-pack: justify;
 		justify-content: space-between;
+		-webkit-box-align: center;
+		-ms-flex-align: center;
 		align-items: center;
 		margin: 1.5rem 0 0.1rem;
+		-webkit-box-flex: 1;
+		-ms-flex: 1 1 auto;
 		flex: 1 1 auto;
 		.phones_link a {
 		  margin-right: 1rem;
 		}
 		.lang_block {
+		  display: -webkit-box;
+		  display: -ms-flexbox;
 		  display: flex;
+		  -webkit-box-flex: 0;
+		  -ms-flex: 0 1 auto;
 		  flex: 0 1 auto;
+		  -webkit-box-pack: justify;
+		  -ms-flex-pack: justify;
 		  justify-content: space-between;
 		  width: 47%;
 		  @media screen and (max-width: 1024px){
@@ -197,8 +230,13 @@ img {width: 100%;}
 			display: none;
 		  }
 		  .lang ul {
+			display: -webkit-box;
+			display: -ms-flexbox;
 			display: flex;
+			-ms-flex-pack: distribute;
 			justify-content: space-around;
+			-webkit-box-flex: 1;
+			-ms-flex: 1 1 auto;
 			flex: 1 1 auto;
 			&.language li {
 			  padding: 3px;
@@ -219,6 +257,20 @@ img {width: 100%;}
 			color: $violet;
 			text-decoration: underline;
 			font-weight: bold;
+		  }
+		  .top_delivery {
+			width: 197px;
+			text-align: center;
+		  }
+
+		  .top_stock {
+			width: 120px;
+			text-align: center;
+		  }
+
+		  .top_contact {
+			width: 86px;
+			text-align: center;
 		  }
 		}
 
@@ -248,9 +300,17 @@ img {width: 100%;}
 		float: none;
 	  }
 	  .search_block {
+		display: -webkit-box;
+		display: -ms-flexbox;
 		display: flex;
+		-webkit-box-flex: 1;
+		-ms-flex: 1 1 auto;
 		flex: 1 1 auto;
+		-webkit-box-pack: justify;
+		-ms-flex-pack: justify;
 		justify-content: space-between;
+		-webkit-box-align: stretch;
+		-ms-flex-align: stretch;
 		align-items: stretch;
 		height: 44px;
 		input.searcher {
@@ -282,7 +342,8 @@ img {width: 100%;}
 	  -webkit-box-ordinal-group: 5;
 	  -ms-flex-order: 4;
 	  order: 4;
-	  width: 18%;
+	  width: 17%;
+	  float: right;
 	  @media screen and (max-width: 800px){
 		width: 10%;
 		-webkit-box-ordinal-group: 4;
@@ -304,9 +365,18 @@ img {width: 100%;}
 		  -ms-flex-pack: justify;
 		  justify-content: space-between;
 		  li {
+			display: -webkit-box;
+			display: -ms-flexbox;
 			display: flex;
+			-webkit-box-pack: stretch;
+			-ms-flex-pack: stretch;
 			justify-content: stretch;
+			-webkit-box-orient: vertical;
+			-webkit-box-direction: normal;
+			-ms-flex-direction: column;
 			flex-direction: column;
+			-webkit-box-align: center;
+			-ms-flex-align: center;
 			align-items: center;
 			width: 47%;
 			cursor: pointer;
@@ -331,7 +401,7 @@ img {width: 100%;}
 			  top: 17%;
 			  @media screen and (max-width: 800px){
 				right: -100%;
-				}
+			  }
 			}
 		  }
 		  li:first-child {
@@ -363,12 +433,24 @@ img {width: 100%;}
 	display: none;
   }
   .content {
+	display: -webkit-box;
+	display: -ms-flexbox;
 	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-ms-flex-direction: row;
 	flex-direction: row;
+	-webkit-box-pack: justify;
+	-ms-flex-pack: justify;
 	justify-content: space-between;
+	-webkit-box-align: stretch;
+	-ms-flex-align: stretch;
 	align-items: stretch;
 	max-width: $maxWidth;
+	-ms-flex-wrap: nowrap;
 	flex-wrap: nowrap;
+	-webkit-box-flex: 1;
+	-ms-flex: 1 1 auto;
 	flex: 1 1 auto;
 	@media screen and (max-width: 1400px){
 	  max-width: $maxWidth12;
@@ -384,6 +466,8 @@ img {width: 100%;}
 	}
   }
   nav {
+	-webkit-box-flex: 1;
+	-ms-flex: 1 1 auto;
 	flex: 1 1 auto;
 	&.nav-1 {
 	  max-width: 80%;
@@ -395,17 +479,24 @@ img {width: 100%;}
 	  }
 	}
 	.nav {
+	  display: -webkit-box;
+	  display: -ms-flexbox;
 	  display: flex;
+	  -webkit-box-pack: justify;
+	  -ms-flex-pack: justify;
 	  justify-content: space-between;
+	  -webkit-box-align: stretch;
+	  -ms-flex-align: stretch;
 	  align-items: stretch;
 	  a {
 		color: #fff;
 		font-size:$fsm;
 		text-transform: uppercase;
 		display: block;
-		padding: 1.5rem 0;
-		@media screen and (max-width: 2000px){
-		  font-size: 16px;
+		padding: 1.5rem 2px;
+		@media screen and (max-device-width: 1400px){
+		  font-size: 14px;
+		  padding: 1.5rem 6px;
 		}
 		&:hover{
 		  text-decoration: underline;
@@ -418,22 +509,39 @@ img {width: 100%;}
 		position: absolute;
 		z-index: 999;
 		padding: 2rem 4rem;
+		//max-width: 1400px;
+		-webkit-box-pack: left;
+		-ms-flex-pack: left;
 		justify-content: left;
+		-webkit-box-align: stretch;
+		-ms-flex-align: stretch;
 		align-items: stretch;
+		-webkit-box-flex: 1;
+		-ms-flex: 1 1 auto;
 		flex: 1 1 auto;
+		-ms-flex-wrap: wrap;
 		flex-wrap: wrap;
 		top: 3.8rem;
 		left: 0;
+		-webkit-transition: all 700ms ease-out;
+		-o-transition: all 700ms ease-out;
 		transition: all 700ms ease-out;
-		&:hover {display: flex;}
+		&:hover {display: -webkit-box;display: -ms-flexbox;display: flex;}
 		li {
 		  border-bottom: solid 1px transparent;
 		  max-width: 20%;
 		  margin-bottom: 1rem;
 		  margin-right: 5%;
 		  a {
+			display: -webkit-box;
+			display: -ms-flexbox;
 			display: flex;
+			-webkit-box-orient: horizontal;
+			-webkit-box-direction: normal;
+			-ms-flex-direction: row;
 			flex-direction: row;
+			-webkit-box-align: end;
+			-ms-flex-align: end;
 			align-items: flex-end;
 			color: #333;
 			padding: initial;
@@ -463,6 +571,8 @@ img {width: 100%;}
 		}
 	  }
 	  li:hover >  ul.dropDown {
+		display: -webkit-box;
+		display: -ms-flexbox;
 		display: flex;
 	  }
 
@@ -470,4 +580,3 @@ img {width: 100%;}
 
   }
 }
-

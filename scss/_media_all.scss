@@ -1,19 +1,22 @@
 @import "setings";
-
+//TODO _media_all.scss
 
 @media all and (min-width: 1601px) {
   .top_main_slider {
 
 	#slider_main-prev {
-	  left: -16%;
+	  left: -7%;
 	}
 
 	#slider_main-next {
-	  right: -16%;
+	  right: -7%;
 	  float: right;
 	}
   }
-
+  .row_bottom nav .nav .dropDown {
+	width: 100%;
+	padding: 2rem 16rem;
+  }
 
 }
 

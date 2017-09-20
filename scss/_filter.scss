@@ -1,3 +1,5 @@
+@import "setings";
+//TODO _filter.scss
 .slider-value {
   position: relative;
   display: inline-block;
@@ -9,3 +11,253 @@
   -ms-transform: translateX(-30%);
   transform: translateX(-30%);
 }
+
+.sidebar {
+  //margin-top: -2rem;
+  //padding: 0.4rem 0 0 0.4rem;
+  //background-color: $bg_block;
+  line-height: 1.2;
+  font-size: $fsm;
+  color: #333;
+  font-weight: 100;
+  width: 19%;
+  p span {
+    display: block;
+    font-weight: bold;
+  }
+
+  .catalogs {
+    //text-indent: 5px;
+    &.catalog__ {
+      &part {
+        margin-top: -2rem;
+        padding: 0.4rem 0 2rem 0.4rem;
+        background-color: $bg_block;
+        margin-bottom: 1rem;
+      }
+      &choise_category {
+        margin-top: -2rem;
+        padding: 0.4rem 0 2rem 0.4rem;
+        background-color: $bg_block;
+        margin-bottom: 1rem;
+        ul span {
+          display: block;
+          font-weight: bold;
+        }
+      }
+      &category-item {
+        font-weight: normal;
+        position: relative;
+        left: -3px;
+        &.active a {
+          background: $violet;
+          color: #fff;
+          display: block;
+        }
+        &:hover a {
+          background: $violet;
+          color: #fff;
+          display: block;
+        }
+        a {padding-left: 5px;}
+      }
+      &choise_subCategory {
+        margin-top: -2rem;
+        padding: 0.4rem 0 2rem 0.4rem;
+        background-color: $bg_block;
+        margin-bottom: 1rem;
+        ul span {
+          display: block;
+          font-weight: bold;
+        }
+      }
+      &subCategory-item {
+        font-weight: normal;
+        position: relative;
+        left: -3px;
+        &.active a {
+          background: $violet;
+          color: #fff;
+          display: block;
+        }
+        &:hover a {
+          background: $violet;
+          color: #fff;
+          display: block;
+        }
+        a {padding-left: 5px;}
+      }
+      &search_catalog {
+        margin-top: -2rem;
+        padding: 0.4rem 0.4rem 2rem 0.4rem;
+        background-color: $bg_block;
+        ul span {
+          display: block;
+          font-weight: bold;
+        }
+      }
+      &search-form {
+        display: flex;
+        justify-content: stretch;
+        flex: 1 1 auto;
+        align-items: center;
+        background-color: #fff;
+        input {
+          border: none;
+          padding: .3rem 0;
+        }
+        button {
+          text-align: center;
+          font-size: 1.3rem;
+          color: $violet;
+          border: none;
+          background: no-repeat;
+          cursor: pointer;
+        }
+      }
+      &filter-title {
+        display: flex;
+        justify-content: stretch;
+        position: relative;
+        left: -0;
+        padding: 2rem 0;
+        width: 100%;
+        background: #fff;
+        flex: 1 1 auto;
+        span {
+          border: solid 1px $violet;
+          line-height: 2;
+          text-transform: uppercase;
+          text-align: center;
+          font-weight: bold;
+          width: 50%;
+        }
+        a.btn_reset-filters {
+          background: $violet;
+          width: 52%;
+          color: #fff;
+          text-transform: lowercase;
+          text-align: center;
+          font-weight: 100;
+        }
+      }
+      &check-filters {
+        display: none;
+        &.is-showing {
+          padding: 1rem 0 2rem 0.4rem;
+          background-color: $bg_block;
+          line-height: 1.5;
+          display: block;
+        }
+        &.price {
+          background-color: #fff;
+        }
+      }
+    }
+
+
+
+    //TODO - Цена
+    .modal-block {
+      max-width: 90%;
+      margin: 0 auto 4rem;
+      #ds-mf-slider-attributes {
+        border: none;
+      }
+
+      .ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default, .ui-button, html .ui-button.ui-state-disabled:hover, html .ui-button.ui-state-disabled:active {
+        border: none;
+        background: $violet;
+        border-radius: 50%;
+        color: $violet;
+      }
+      .ui-slider-range.ui-corner-all.ui-widget-header {
+        border: none;
+        height: 3px;
+      }
+
+      .ui-widget.ui-widget-content {
+        border: none;
+        background: transparent;
+        height: 3px;
+        margin-top: 3rem;
+        & > :last-child {
+          background: $violet;
+        }
+      }
+
+      .ui-slider-horizontal .ui-slider-handle {
+        top: -0.5em;
+        span.slider-value {
+          font-size: 18px;
+          color: $violet;
+          font-weight: bold;
+        }
+      }
+    }
+
+    .filter_ok {
+      display: block;
+      border: none;
+      background: $violet;
+      color: #fff;
+      width: 102%;
+      padding: 1rem;
+      left: -.3rem;
+      position: relative;
+      font-weight: 100;
+      font-size: 18px;
+      text-align: center;
+    }
+
+
+  }
+
+  li[class$=-item] a {padding-left: 5px;}
+
+
+}
+.sort {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex: 1 1 auto;
+  margin-bottom: 1rem;
+  &_type {
+    width: 70%;
+    ul {
+      display: flex;
+      justify-content: space-between;
+    }
+  }
+  .value_views{
+    ul {
+      display: flex;
+      justify-content: flex-end;
+      align-items: baseline;
+    }
+    li {
+      margin: 0 .3rem;
+      padding: .3rem;
+      border: solid 1px transparent;
+      &.active, &:hover {
+        border: solid 1px #333;
+      }
+    }
+  }
+
+
+}
+.filter_result {
+  .delet_filter-item:hover {
+    color:red;}
+  ul {
+    background: $bg_block;
+    padding: .3rem;
+    display: inline-block;
+  }
+}
+.main_catalog {
+  max-width: 77%;
+}
+
