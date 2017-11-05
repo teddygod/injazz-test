@@ -28,8 +28,13 @@
   -webkit-box-align: baseline;
   -ms-flex-align: baseline;
   align-items: baseline;
+  opacity: .6;
+  @media screen and (max-width: 768px){
+	display: none;
+  }
   a{ padding: 0 3px;
-	&:hover{text-decoration: underline; padding: 0 3px;}}
+	opacity: .6;
+	&:hover{text-decoration: underline; padding: 0 3px; opacity: 1;}}
 }
 
 //TODO правки jquery-ui
@@ -91,7 +96,7 @@
 
 //TODO end jquery-ui
 
-.you_sea{
+.bay_with_item, .you_sea{
 
   padding: 2rem 0;
   .goods {
@@ -114,6 +119,12 @@
 
 	  @media screen and (max-width: 768px){
 		max-width: 48%;
+		width: 48%;
+		margin-bottom: 2rem;
+	  }
+	  @media screen and (max-width: 600px){
+		max-width: 100%;
+		width: 100%;
 		margin-bottom: 2rem;
 	  }
 	}
@@ -178,12 +189,19 @@
 	  align-items: center;
 	  li {
 		width: 40px;
+		@media screen and (max-width: 600px){
+		  width: 25px;
+		}
 		a {
 		  width: 100%;
 		  display: inline-block;
 		  font-size: 18px;
 		  line-height: 45px;
 		  color: #222222;
+		  @media screen and (max-width: 600px){
+			font-size: 1.5rem;
+			line-height: normal;
+		  }
 		  &:hover {
 			color: #222222;
 		  }
@@ -238,8 +256,11 @@
   }
 
 }
-.bay_with_item {
+.bay_with_item, .you_sea {
   padding: 2rem 0;
+  .bx-viewport {
+	min-height: 520px;
+  }
   .goods {
 	display: -webkit-box;
 	display: -ms-flexbox;
@@ -286,7 +307,7 @@
 	  position: absolute;
 	  left: -4rem;
 	  @media screen and (max-width: 1024px) {
-		left: -2rem;
+		left: -4rem;
 	  }
 	  @media screen and (max-width: 768px) {
 		display: none;
@@ -297,7 +318,7 @@
 	  position: absolute;
 	  right: -3rem;
 	  @media screen and (max-width: 1024px) {
-		right: -1rem;
+		right: -3rem;
 	  }
 	  @media screen and (max-width: 768px) {
 		display: none;

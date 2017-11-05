@@ -3,6 +3,10 @@
 footer{
   background-color: $bg_block;
   padding: .6rem 0;
+
+  @media screen and (max-width: 900px){
+	display: none;
+  }
 }
 .foo_menu {
   display: -webkit-box;
@@ -16,10 +20,16 @@ footer{
   @media screen and (max-width: 800px){
 	display: none;
   }
-  li a {
-	display: block;
-	padding: 2px 10px;
-	&:hover {
+  li{
+	a {
+	  display: block;
+	  padding: 2px 10px;
+	  &:hover {
+		background: $violet;
+		color: #fff;
+	  }
+	}
+	&.active a {
 	  background: $violet;
 	  color: #fff;
 	}
@@ -33,13 +43,13 @@ footer{
   -webkit-box-pack: justify;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  color: #333;
+  color: #dedede;
   -webkit-box-align: end;
   -ms-flex-align: end;
   align-items: flex-end;
-  font-size: 12px;
+  font-size: 10px;
   @media screen and (max-width: 800px){
-	font-size: 10px;
+	font-size: 8px;
   }
 }
 
@@ -49,4 +59,6 @@ footer{
 
 .dev_by a {
   text-decoration: underline;
+  text-transform: uppercase;
+  color: #dedede;
 }

@@ -15,7 +15,7 @@
   }
   .row_bottom nav .nav .dropDown {
 	width: 100%;
-	padding: 2rem 16rem;
+	//padding: 2rem 2rem;
   }
 
 }
@@ -23,11 +23,20 @@
 
 .slicknav_menu {
   background: $violet url(../img/menu_bg.jpg) no-repeat top left;
+  @media screen and (max-width: 768px){
+	font-size: 13px;
+  }
+  @media screen and (max-width: 600px){
+	padding: 0;
+  }
 }
 
 .slicknav_nav {
   padding: 0 15px;
   width: 99vw;
+  @media screen and (max-width: 600px){
+	padding: 30px 0;
+  }
 }
 .slicknav_btn {
   background-color: transparent;
@@ -43,6 +52,16 @@
   background-size: contain;
   width: 50px;
   height: 40px;
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  z-index: 111;
+  @media screen and (max-width: 600px){
+	width: 31px;
+	height: 21px;
+	right: 10px;
+	top: 10px;
+  }
   .slicknav_no-text {
 	display: none;
   }
@@ -61,7 +80,12 @@
 .slicknav_btn .slicknav_icon-bar + .slicknav_icon-bar {
   margin-top: 0.488em;
 }
-
+.slicknav_nav .slicknav_row {
+  @media screen and (max-width: 600px){
+	padding: 5px 0;
+	margin: 4px 0;
+  }
+}
 #nav
 {
   //width: 60em; /* 1000 */
@@ -70,7 +94,7 @@
   position: absolute;
   top: 0;
   left: 0;
-  z-index: 1;
+  z-index: 9999;
   min-width: 8%;
   margin-left: -30em; /* 30 480 */
 }
@@ -87,8 +111,12 @@
 #nav li a
 {
   color: #fff;
-  display: block;
+  //display: block;
   background: transparent;
+  font-size: 2.5rem;
+  @media screen and (max-width: 600px){
+	font-size: 1.5rem;
+  }
 }
 #nav li a:active
 {
@@ -171,22 +199,26 @@
   background-color: transparent;
 }
 
-@media only screen and ( max-width: 800px) /* portrait*/
-{
-
-.slicknav_nav img{
+@media only screen and (max-width: 800px) {
   width: 20%;
-}
 
+.slicknav_nav img {
+  @media only screen and (max-width: 600px) {
+	width: 20%;
+  }
+}
 
 
   span.menu_ico {
 	font-size: 5rem;
 	margin-right: 1rem;
+	@media only screen and (max-width: 600px) {
+	  font-size: 2rem;
+	}
   }
 
   span.slicknav_arrow {
-	display: none;
+	//display: none;
   }
 
   .slicknav_nav a:hover {
@@ -202,13 +234,28 @@
 	background: #f9f9f9;
 	color: $violet;
 	margin: 0;
-	column-count: 3;
+	display: flex;
+	flex-wrap: wrap;
+	align-items: stretch;
+	justify-content: flex-start;
+	flex-direction: row;
+	flex: 1 1 auto;
+	li.title_chapt-item {
+	  width: 33%;
+	  @media only screen and (max-width: 600px) {
+		width: 32%;
+	  }
+	}
   }
 
   #nav li .dropDown a {
 	color: $violet;
-	display: block;
+	//display: block;
 	padding: 0.4rem 0rem;
+	font-size: 1.9rem;
+	@media only screen and (max-width: 600px) {
+	  font-size: .9rem;
+	}
   }
   /*li.title_chapt.slicknav_parent.slicknav_open .sub_dropDown:after {
 	content: "\27A4";
@@ -250,13 +297,6 @@
   {
 	display: block;
   }
-
-
-
-
-
-
-
 
   #nav  {
 	position: absolute;
@@ -326,5 +366,199 @@
 	position: static;
 	padding: 1.25em; /* 20 */
 	padding-top: 0;
+	@media only screen and (max-width: 600px) {
+	  padding: .25rem;
+	}
+
+	li.slicknav_parent > a {
+	  text-transform: uppercase;
+	  position: relative;
+	  &:after {
+		width: 0;
+		height: 0;
+		border-style: solid;
+		border-width: 10px 5px 0 5px;
+		border-color: $violet transparent transparent transparent;
+		//display:block;
+		//content: "";
+		position: static;
+		top: 30%;
+
+	  }
+	}
   }
+
+
+//TODO mob-filter
+  .mob_filter-open {
+	font-size: 1.5rem;
+	padding: .3rem;
+	background: #e6e6e6;
+	position: absolute;
+  }
+  .sidebar-filter {
+	display: flex;
+	justify-content: space-between;
+	flex: 1 1 auto;
+	align-items: stretch;
+	flex-wrap: wrap;
+  }
+  .catalog_block {
+	display: block;
+  }
+
+  .mob_filter-content {
+	position: absolute;
+	width: 100%;
+	height: auto;
+	background-color: #f9f9f9;
+	z-index: 99;
+	padding: 1rem;
+	left: 0;
+	top: 0;
+  }
+  .mob_filter-close {
+	position: absolute;
+	z-index: 999;
+	font-size: 4rem;
+	right: 0.5rem;
+	top: 0.5rem;
+	cursor: pointer;
+  }
+  .page_wrapp-catalog {
+	position: relative;
+  }
+
+  .sidebar-mob {
+	display: block;
+	width: 100%;
+	font-size: 2rem;
+	line-height: 2;
+  }
+
+  .sidebar-mob .catalogs.catalog__choise_category {
+	background: none;
+  }
+
+  .sidebar-mob .catalogs.catalog__part {
+	background: none;}
+
+  .sidebar-mob .catalogs.catalog__choise_subCategory {
+	background: none;}
+
+  .sidebar-mob .catalogs.catalog__check-filters.is-showing {
+	background: none;}
+
+  .sidebar-mob .catalogs.catalog__search_catalog {
+	background: none;}
+
+
+
+  .slicknav_menu hr {
+	border: none;
+	width: 100%;
+	height: 2px;
+	background: #fff;
+	margin: 2rem 0;
+	margin-left: 2rem;
+	@media only screen and (max-width: 600px) {
+	  margin-left: 0;
+	}
+  }
+
+  ul.nav-bottom {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+  }
+
+  ul.nav-footer {
+	column-count: 2;
+	li {
+	  line-height: 1.5;
+	}
+  }
+
+  .catr-row ul {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	font-size: 2.5rem;
+	text-align: center;
+	@media only screen and (max-width: 600px) {
+	  font-size: 2rem;
+	  justify-content: space-between;
+	}
+  }
+
+  ul.nav-fsocial {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	margin-bottom: 3rem;
+	@media only screen and (max-width: 600px) {
+	  margin-bottom: 0;
+	  flex-direction: column-reverse;
+
+	}
+	li {
+	  display: flex;
+	  flex-direction: row;
+	  justify-content: space-around;
+	  @media only screen and (max-width: 600px) {
+		margin-bottom: 2rem;
+	  }
+	}
+  }
+
+  #nav li a.soc_icon {
+	width: 45px;
+	height: 45px;
+	color: $violet;
+	background: #fff;
+	border-radius: 50%;
+	text-align: center;
+	font-size: 2rem;
+	line-height: 44px;
+	padding: 0;
+	@media only screen and (max-width: 600px) {
+	  width: 25px;
+	  height: 25px;
+	  font-size: 1.3rem;
+	  line-height: 27px;
+	}
+  }
+
+  .catr-row ul li {
+	margin: 0rem 2rem;
+  }
+
+  span.totalGoods {
+	display: inline-block;
+	color: $violet;
+	background: #fff;
+	margin: 0 .5rem;
+	width: 35px;
+	height: 35px;
+	border-radius: 50%;
+	@media only screen and (max-width: 600px) {
+	  width: 27px;
+	  height: 27px;
+	}
+  }
+  .slicknav_nav ul {
+	list-style: none;
+	overflow: hidden;
+	padding: 0;
+	margin: 0 0 0 20px;
+	@media only screen and (max-width: 600px) {
+	  margin: 0;
+	}
+  }
+  .bx-wrapper {
+	margin-bottom: 0;
+  }
+
 }
+
+

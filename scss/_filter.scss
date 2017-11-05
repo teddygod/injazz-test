@@ -19,8 +19,14 @@
   line-height: 1.2;
   font-size: $fsm;
   color: #333;
-  font-weight: 100;
+  font-weight: 400;
   width: 19%;
+  @media screen and (max-width: 1024px){
+    width: 27%;
+  }
+  @media screen and (max-width: 800px){
+    display: none;
+  }
   p span {
     display: block;
     font-weight: bold;
@@ -43,23 +49,53 @@
         ul span {
           display: block;
           font-weight: bold;
+          margin-bottom: .4rem;
         }
       }
       &category-item {
         font-weight: normal;
         position: relative;
         left: -3px;
-        &.active a {
-          background: $violet;
-          color: #fff;
+        margin-bottom: .4rem;
+        &:hover:after {
           display: block;
-        }
-        &:hover a {
+          content: "";
+          width: 5%;
+          height: 100%;
           background: $violet;
-          color: #fff;
-          display: block;
+          position: absolute;
+          top: 0;
+          right: -5%;
         }
-        a {padding-left: 5px;}
+        &.active {
+          &:after {
+            display: block;
+            content: "";
+            width: 5%;
+            height: 100%;
+            background: $violet;
+            position: absolute;
+            top: 0;
+            right: -5%;
+          }
+          a {
+            background: $violet;
+            color: #fff;
+            display: block;
+            padding-bottom: 3px;
+          }
+        }
+          &:hover a {
+            background: $violet;
+            color: #fff;
+            display: block;
+            padding-bottom: 3px;
+          }
+          a {
+            padding-left: 5px;
+            padding-bottom: 3px;
+            display: block;
+          }
       }
       &choise_subCategory {
         margin-top: -2rem;
@@ -69,23 +105,53 @@
         ul span {
           display: block;
           font-weight: bold;
+          margin-bottom: .4rem;
         }
       }
       &subCategory-item {
         font-weight: normal;
         position: relative;
         left: -3px;
-        &.active a {
-          background: $violet;
-          color: #fff;
+        margin-bottom: .4rem;
+        &:hover:after {
           display: block;
-        }
-        &:hover a {
+          content: "";
+          width: 5%;
+          height: 100%;
           background: $violet;
-          color: #fff;
-          display: block;
+          position: absolute;
+          top: 0;
+          right: -5%;
         }
-        a {padding-left: 5px;}
+        &.active {
+          &:after {
+            display: block;
+            content: "";
+            width: 5%;
+            height: 100%;
+            background: $violet;
+            position: absolute;
+            top: 0;
+            right: -5%;
+          }
+          a {
+            background: $violet;
+            color: #fff;
+            display: block;
+            padding-bottom: 3px;
+          }
+        }
+          &:hover a {
+            background: $violet;
+            color: #fff;
+            display: block;
+            padding-bottom: 3px;
+          }
+          a {
+            padding-left: 5px;
+            padding-bottom: 3px;
+            display: block;
+          }
       }
       &search_catalog {
         margin-top: -2rem;
@@ -105,6 +171,7 @@
         input {
           border: none;
           padding: .3rem 0;
+          width: 100%;
         }
         button {
           text-align: center;
@@ -113,6 +180,7 @@
           border: none;
           background: no-repeat;
           cursor: pointer;
+          margin-right: 5%;
         }
       }
       &filter-title {
@@ -138,16 +206,19 @@
           color: #fff;
           text-transform: lowercase;
           text-align: center;
-          font-weight: 100;
+          font-weight: 400;
         }
       }
       &check-filters {
         display: none;
         &.is-showing {
-          padding: 1rem 0 2rem 0.4rem;
+          padding: 0.5rem 0 0.1rem 0.4rem;
           background-color: $bg_block;
-          line-height: 1.5;
+          line-height: 1.4;
           display: block;
+          li{
+            margin-bottom: .4rem;
+          }
         }
         &.price {
           background-color: #fff;
@@ -178,7 +249,7 @@
 
       .ui-widget.ui-widget-content {
         border: none;
-        background: transparent;
+        background: #e6e6e6;
         height: 3px;
         margin-top: 3rem;
         & > :last-child {
@@ -189,9 +260,12 @@
       .ui-slider-horizontal .ui-slider-handle {
         top: -0.5em;
         span.slider-value {
-          font-size: 18px;
+          font-size: $fsm;
           color: $violet;
           font-weight: bold;
+          @media screen and (max-width: 768px){
+            font-size: $fss-14;
+          }
         }
       }
     }
@@ -223,8 +297,15 @@
   justify-content: space-between;
   flex: 1 1 auto;
   margin-bottom: 1rem;
+  @media screen and (max-width: 600px){
+   display: none;
+  }
   &_type {
     width: 70%;
+    @media screen and (max-width: 768px){
+      width: 45%;
+      display: none;
+    }
     ul {
       display: flex;
       justify-content: space-between;
@@ -246,9 +327,18 @@
     }
   }
 
-
+  .sort_type-selector {
+    display: none;
+    @media screen and (max-width: 768px){
+      width: 45%;
+      display: block;
+    }
+  }
 }
 .filter_result {
+  @media screen and (max-width: 600px){
+   display: none;
+  }
   .delet_filter-item:hover {
     color:red;}
   ul {
@@ -259,5 +349,21 @@
 }
 .main_catalog {
   max-width: 77%;
+  @media screen and (max-width: 1024px){
+    max-width: 70%;
+  }
+  @media screen and (max-width: 768px){
+    max-width: 100%;
+  }
 }
-
+.mob_filter {
+  @media screen and (min-width: 769px) {
+    display: none;
+  }
+  .catalogs.catalog__filter {
+    width: 50%;
+    @media screen and (max-width: 600px){
+     width: 100%;
+    }
+  }
+}

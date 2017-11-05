@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'injazz_icon';
-  src: url('../font/injazz_icon.eot?25789944');
-  src: url('../font/injazz_icon.eot?25789944#iefix') format('embedded-opentype'),
-       url('../font/injazz_icon.woff2?25789944') format('woff2'),
-       url('../font/injazz_icon.woff?25789944') format('woff'),
-       url('../font/injazz_icon.ttf?25789944') format('truetype'),
-       url('../font/injazz_icon.svg?25789944#injazz_icon') format('svg');
+  src: url('../font/injazz_icon.eot?31388992');
+  src: url('../font/injazz_icon.eot?31388992#iefix') format('embedded-opentype'),
+       url('../font/injazz_icon.woff2?31388992') format('woff2'),
+       url('../font/injazz_icon.woff?31388992') format('woff'),
+       url('../font/injazz_icon.ttf?31388992') format('truetype'),
+       url('../font/injazz_icon.svg?31388992#injazz_icon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'injazz_icon';
-    src: url('../font/injazz_icon.svg?25789944#injazz_icon') format('svg');
+    src: url('../font/injazz_icon.svg?31388992#injazz_icon') format('svg');
   }
 }
 */
@@ -159,6 +159,8 @@
 .icon-big-vintage-mic:before { content: '\e86b'; } /* '' */
 .icon-concert-sportlight:before { content: '\e86c'; } /* '' */
 .icon-old-gramophone:before { content: '\e86d'; } /* '' */
+.icon-contact:before { content: '\e86e'; } /* '' */
+.icon-play:before { content: '\e86f'; } /* '' */
 .icon-up-open:before { content: '\f005'; } /* '' */
 .icon-angle-double-right:before { content: '\f101'; } /* '' */
 .icon-youtube-play:before { content: '\f16a'; } /* '' */

@@ -175,6 +175,7 @@ if ( typeof Object.create !== 'function' ) {
 						+ "height: " + String(self.nzHeight) + "px;"
 						+ "px;float: left;"
 						+ "display: none;"
+						+ "border-rasius: 50%;"
 						+ "cursor:"+(self.options.cursor)+";"
 						+ "px solid " + self.options.borderColour 
 						+ ";background-repeat: no-repeat;"
