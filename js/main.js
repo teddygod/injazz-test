@@ -280,4 +280,41 @@ $(document).ready(function () {
 				return false;
 		}
 	})
+
+	$.each($(".usera"),function(){
+		if($("input", this).is(':checked')){
+			$(this).addClass("checked")}});
+	$(".usera").click(function(){
+		$(this).toggleClass("checked");
+		var path = $("input", this);
+		if(path.is(':checked')){
+			path.attr("checked", false);
+		}else{ path.attr("checked", true)}});
+
+	$.each($(".descripte"),function(){
+		if($("input", this).is(':checked')){
+			$(this).addClass("checked")}});
+	$(".descripte").click(function(){
+		$(this).toggleClass("checked");
+		var path = $("input", this);
+		if(path.is(':checked')){
+			path.attr("checked", false);
+		}else{ path.attr("checked", true)}});
+
+	/*$.each($(".tackeAway"),function(){
+		if($("input", this).is(':checked')){
+			$(this).addClass("checked")}});
+	$(".tackeAway").click(function(){
+		$(this).toggleClass("checked");
+		var path = $("input", this);
+		if(path.is(':checked')){
+			path.attr("checked", false);
+		}else{ path.attr("checked", true)}});*/
+
+	$(".ro_tackeAway").change(function(){
+		if($(this).is(":checked")){
+			$(".RadioSelected:not(:checked)").removeClass("RadioSelected");
+			$(this).next("label").addClass("RadioSelected");
+		}
+	});
 });

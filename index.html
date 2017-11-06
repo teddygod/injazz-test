@@ -569,7 +569,7 @@
 									<li class="lang_ru active">РУ</li>
 								</ul>
 							</div>
-							<div class="top_delivery"><a href="#" class="trats">Оплата и доставка</a></div>
+							<div class="top_delivery"><a href="delivery_pay.html" class="trats">Оплата и доставка</a></div>
 						</div>
 					</div>
 					<div class="search_block">
@@ -2868,30 +2868,39 @@
 		
 		<h2 class="g-form__title">Оформление заказа</h2>
 		
-		<form id="order-form_1" class="g-form g-form_order" name="form-order" action="/ru/catalog/order" method="POST" rel="nofollow">
+		<form id="order-form_diller" class="g-form g-form_order" name="form-order" action="/ru/catalog/order" method="POST" rel="nofollow">
+			<div class="g-form__group">
+				<div class="g-form__radio">
+						<span class="not_reg">Новый покупатель </span>
+						<span for="or_reg" class="usera">
+							<input type="checkbox" class="or-regs" id="or_reg">
+							<span class="btn_checkeds"></span>
+							<label for="or_reg"></label>
+						</span>
+						<span class="a_reg"> Зарегистрированный пользователь</span>
+				</div>
+			</div>
 			<input type="hidden" name="_csrf-frontend" value="feJVO7jQUaFpCYdEhzFTAnTej72DyMQwi-4wux468BZNUxralQOvZmpTTEBQjdwI3_ALWAiX53vWdrY8CkhqbA==">                            <input type="hidden">
 		
 			<div class="g-form__group">
 				<div class="g-form__input">
 					<div class="form-group field-ordersform-fio required">
 						<div class="help-block"></div>
-						<input type="text" id="ordersform-fio" class="input input_text input_g-form" name="OrdersForm[fio]" placeholder="Ваше имя*" aria-required="true">
+						<input type="text" id="ordersform-fio" class="input input_text input_g-form" name="OrdersForm[fio]" placeholder="Ваше имя" aria-required="true">
 					</div>
 				</div>
 				<div class="g-form__input">
 					<div class="form-group field-ordersform-email">
 						<div class="help-block"></div>
-						<input type="text" id="ordersform-email" class="input input_text input_g-form" name="OrdersForm[email]" placeholder="Email">
+						<input type="text" id="ordersform-email" class="input input_text input_g-form" name="OrdersForm[email]" placeholder="Ваш e-mail">
 					</div>
 				</div>
 				<div class="g-form__input">
 					<div class="form-group field-ordersform-phone required">
 						<div class="help-block"></div>
-						<input type="text" id="ordersform-phone" class="input input_text input_g-form" name="OrdersForm[phone]" placeholder="Номер телефон*" aria-required="true">
+						<input type="text" id="ordersform-phone" class="input input_text input_g-form" name="OrdersForm[phone]" placeholder="Номер телефон" aria-required="true">
 					</div>
 				</div>
-				
-				
 			</div>
 			<div class="g-form__group">
 				<div class="g-form__input">
@@ -2924,18 +2933,20 @@
 					</div>
 					<div class="form-group field-ordersform-tackeAway" style="display: none;">
 						<div class="help-block"></div>
-						<input type="radio" name="tackeAway" class="tackeAway" id="tackeAway-Kiev" >
-						<label for="tackeAway-Kiev">
-							<strong>Центральный магазин "Ин-Джаз"</strong><br/>
-							Киев, бульв. Дружбы Народов, 1
-						</label>
-						<input type="radio" name="tackeAway" class="tackeAway" id="tackeAway-Zapo">
-						<label for="tackeAway-Zapo">
-							<strong>Магазин музыкальных инструментов
-								"Ин-Джаз"</strong><br/>
-							Запорожье, пр-т. Соборный, 159
-						</label>
-					
+						<div class="tackAway_radio">
+								<input name="tackeAway" type="radio" class="ro_tackeAway" id="tackeAway-Kiev">
+								<label for="tackeAway-Kiev">
+									<strong>Центральный магазин "Ин-Джаз"</strong><br/>
+									Киев, бульв. Дружбы Народов, 1
+								</label>
+							<br />
+							<br />
+								<input name="tackeAway" type="radio" class="ro_tackeAway" id="tackeAway-Zapo">
+								<label for="tackeAway-Zapo">
+									<strong>Магазин музыкальных инструментов "Ин-Джаз"</strong><br/>
+									Запорожье, пр-т. Соборный, 159
+								</label>
+						</div>
 					</div>
 					<div class="form-group field-ordersform-numb_NP" style="display: none;">
 						<div class="help-block"></div>
@@ -2949,27 +2960,65 @@
 					</div>
 				</div>
 				<div class="g-form__input">
-					<div class="form-group field-ordersform-post">
-						<div class="help-block"></div>
-						<input type="text" id="ordersform-post" class="input input_text input_g-form" name="OrdersForm[post]" placeholder="Отделение Новой почты">
-					</div>
-				</div>
-				
-				
-				
-			</div>
-			<div class="g-form__group">
-				<div class="g-form__input">
 					<div class="form-group field-ordersform-message">
 						<div class="help-block"></div>
-						<textarea id="ordersform-message" class="input input_textarea input_g-form" name="OrdersForm[message]" rows="4" placeholder="Примечания"></textarea>
+						<textarea id="ordersform-message" class="input input_textarea input_g-form" name="OrdersForm[message]" rows="1" placeholder="Ваше сообщение"></textarea>
 					</div>
+						<span class="descripte">
+							<input type="checkbox" class="or-regs" id="descripte">
+							<span class="btn_descripte"></span>
+							<label for="descripte">Подписаться на рассылку и первым узнавать о лучших ценовых предложениях</label>
+						</span>
 				</div>
 			</div>
 			<div class="g-form__button">
-				<button type="submit" value="Отправить" class="btn btn_g-form">OK</button>
+				<!--<div class="minicart__order-link"><button type="submit" value="Отправить" class="btn btn_minicart modal-show">оформить заказ</button></div>-->
+				<div class="minicart__order-link"><a href="#success" class="btn btn_minicart modal-show" rel="nofollow">Оформить заказ</a></div>
 			</div>
 		</form>
+	</div>
+</div>
+
+<!--cart for pay-->
+
+<div id="errors" class="modal-box">
+	<div class="modal-box__inner modal-box__inner_ordering modal_box-bg">
+		<div class="modal-box__close-btn">
+			<svg id="cross" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 22 22" enable-background="new 0 0 22 22" xml:space="preserve">
+              <path fill="#B4B4B4" d="M0.9,0C0.4,0.1,0,0.5,0,1c0,0.2,0.1,0.4,0.3,0.6L9.7,11l-9.4,9.4c-0.4,0.3-0.4,0.9-0.1,1.3						  c0.3,0.4,0.9,0.4,1.3,0.1c0,0,0.1-0.1,0.1-0.1l9.4-9.4l9.4,9.4c0.3,0.4,0.9,0.4,1.3,0.1c0.4-0.3,0.4-0.9,0.1-1.3						  c0,0-0.1-0.1-0.1-0.1L12.3,11l9.4-9.4c0.4-0.4,0.4-1,0-1.3C21.5,0.1,21.2,0,20.9,0c-0.2,0-0.4,0.1-0.6,0.3L11,9.7L1.6,0.3						  C1.4,0.1,1.2,0,0.9,0z"></path>
+            </svg>
+		</div>
+		
+		<div class="text_block_iner-modal">
+			<div class="modal_title">упс! что-то пошло не так
+				Оплата не прошла </div>
+			<div class="text">ваш заказ принят в обработку.
+				наш менеджер с вами свяжется.</div>
+			<div class="btn_result">
+				<div class="minicart__cont-close"><a href="index.html" class="modal-box__close-lnk">Продолжить покупки</a></div>
+			</div>
+		</div>
+		
+	</div>
+</div>
+
+<!--cart for pay-->
+
+<div id="success" class="modal-box">
+	<div class="modal-box__inner modal-box__inner_ordering modal_box-bg">
+		<div class="modal-box__close-btn">
+			<svg id="cross" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 22 22" enable-background="new 0 0 22 22" xml:space="preserve">
+              <path fill="#B4B4B4" d="M0.9,0C0.4,0.1,0,0.5,0,1c0,0.2,0.1,0.4,0.3,0.6L9.7,11l-9.4,9.4c-0.4,0.3-0.4,0.9-0.1,1.3						  c0.3,0.4,0.9,0.4,1.3,0.1c0,0,0.1-0.1,0.1-0.1l9.4-9.4l9.4,9.4c0.3,0.4,0.9,0.4,1.3,0.1c0.4-0.3,0.4-0.9,0.1-1.3						  c0,0-0.1-0.1-0.1-0.1L12.3,11l9.4-9.4c0.4-0.4,0.4-1,0-1.3C21.5,0.1,21.2,0,20.9,0c-0.2,0-0.4,0.1-0.6,0.3L11,9.7L1.6,0.3						  C1.4,0.1,1.2,0,0.9,0z"></path>
+            </svg>
+		</div>
+		
+		<div class="text_block_iner-modal">
+			<div class="modal_title">Оплата прошла успешно</div>
+			<div class="btn_result">
+				<div class="minicart__cont-close"><a href="index.html" class="modal-box__close-lnk">Продолжить покупки</a></div>
+			</div>
+		</div>
+		
 	</div>
 </div>
 
