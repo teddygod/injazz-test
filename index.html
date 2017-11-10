@@ -5,7 +5,8 @@
 	<title>InJazz</title>
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
-
+	
+	<link rel="shortcut icon" href="/favicon.ico">
 	<link rel="stylesheet" href="css/injazz_icon.css">
 <!--	<link rel="stylesheet" href="/scss/font-awesome.scss">-->
 	<link rel="stylesheet" href="css/jquery.mCustomScrollbar.css">
@@ -596,7 +597,7 @@
 				<div class="top_container top_container-4">
 					<div class="lang_block">
 						<div class="top_stock"><a href="#" class="trats">Акции %</a></div>
-						<div class="top_contact"><a href="#" class="trats">Контакты</a></div>
+						<div class="top_contact"><a href="contacts.html" class="trats">Контакты</a></div>
 					</div>
 					<div class="catr-row">
 						<ul class="">
@@ -943,7 +944,7 @@
 							<ul class="dropDown">
 								<li class="title_chapt"><a href="#" style="font-size: 18px;padding-left: 1%;margin-bottom: 1.5rem;"><span><img src="img/icon_menu/commission.png" alt=""></span>комиссионный товар</a>
 									<ul class="sub_dropDown comission">
-										<li class="title_chapt-item"><a href="#">Гитары</a></li>
+										<li class="title_chapt-item"><a href="commision_catalog.html">Гитары</a></li>
 										<li class="title_chapt-item"><a href="#">Клавишные</a></li>
 										<li class="title_chapt-item"><a href="#">Духовые</a></li>
 										<li class="title_chapt-item"><a href="#">Ударные</a></li>
@@ -1141,8 +1142,8 @@
 													<div class="top"><span>TOP </span></div>
 												</div>
 												<div class="goods_item-center">
-													<a href="good_cart.html"><img src="img/tovar.jpg" alt="" class="goods_img"></a>
-													<a href="good_cart.html"><div class="goods_title">Наушники Audio-Technica
+													<a href="cart.html"><img src="img/tovar.jpg" alt="" class="goods_img"></a>
+													<a href="cart.html"><div class="goods_title">Наушники Audio-Technica
 														ATH-AVC200</div></a>
 													<div class="goods_coast">1 111 <span class="curancy">грн</span></div>
 													<div class="goods_rating">
@@ -1631,8 +1632,8 @@
 											<div class="top"><span>TOP </span></div>
 										</div>
 										<div class="goods_item-center">
-											<a href="good_cart.html"><img src="img/tovar.jpg" alt="" class="goods_img"></a>
-											<a href="good_cart.html"><div class="goods_title">Наушники Audio-Technica
+											<a href="cart.html"><img src="img/tovar.jpg" alt="" class="goods_img"></a>
+											<a href="cart.html"><div class="goods_title">Наушники Audio-Technica
 												ATH-AVC200</div></a>
 											<div class="goods_coast">1 111 <span class="curancy">грн</span></div>
 											<div class="goods_rating">
@@ -1668,8 +1669,8 @@
 											<div class="stock"><span>акции </span></div>
 										</div>
 										<div class="goods_item-center">
-											<a href="good_cart.html"><img src="img/tovar.jpg" alt="" class="goods_img"></a>
-											<a href="good_cart.html"><div class="goods_title">Наушники Audio-Technica
+											<a href="cart.html"><img src="img/tovar.jpg" alt="" class="goods_img"></a>
+											<a href="cart.html"><div class="goods_title">Наушники Audio-Technica
 												ATH-AVC200</div></a>
 											<div class="goods_coast">1 111 <span class="curancy">грн</span></div>
 											<div class="goods_rating">
@@ -1705,8 +1706,8 @@
 											<div class="new"><span>NEW </span></div>
 										</div>
 										<div class="goods_item-center">
-											<a href="good_cart.html"><img src="img/tovar.jpg" alt="" class="goods_img"></a>
-											<a href="good_cart.html"><div class="goods_title">Наушники Audio-Technica
+											<a href="cart.html"><img src="img/tovar.jpg" alt="" class="goods_img"></a>
+											<a href="cart.html"><div class="goods_title">Наушники Audio-Technica
 												ATH-AVC200</div></a>
 											<div class="goods_coast">1 111 <span class="curancy">грн</span></div>
 											<div class="goods_rating">
@@ -2665,6 +2666,19 @@
 			</div>
 		</div>
 	</section>
+	<script>
+		$(".subb_btn").on("click", succes_send);
+		function succes_send() {
+			var subs_inp = $("#subscribe_in").val();
+			
+			if (subs_inp != null && subs_inp != '') {
+				
+				$(".sub_success").css("display", "flex");
+			} else {
+				return false;
+			}
+			}
+	</script>
 
 	<section class="contact">
 		<div class="wrapper">
@@ -2740,8 +2754,8 @@
 		</div>
 	</section>
 </div>
-<!--footer-->
 
+<!--footer-->
 <footer>
 	<div class="wrapper">
 		<div class="row">
