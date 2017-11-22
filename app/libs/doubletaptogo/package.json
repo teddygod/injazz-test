@@ -1,0 +1,35 @@
+{
+  "name": "jquery-doubletap-to-go",
+  "title": "jQuery Double Tap To Go",
+  "description": "Prevents first tap (click) on multi level menu children on mobile devices.",
+  "version": "1.0.0",
+  "homepage": "http://github.com/zenopopovici/DoubleTapToGo",
+  "author": {
+    "name": "Graffino",
+    "url": "http://graffino.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zenopopovici/DoubleTapToGo.git"
+  },
+  "bugs": "https://github.com/zenopopovici/DoubleTapToGo/issues",
+  "licenses": [
+    {
+      "type": "Some Rights Reserved",
+      "url": "https://github.com/zenopopovici/DoubleTapToGo/blob/master/LICENSE"
+    }
+  ],
+  "scripts": {
+  	"test": "grunt test"
+  },
+  "keywords": ["jquery", "doubletap", "javascript"],
+
+  "private": false,
+
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-jshint": "*"
+  }
+}

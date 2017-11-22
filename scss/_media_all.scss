@@ -199,13 +199,14 @@
   background-color: transparent;
 }
 
-@media only screen and (max-width: 800px) {
-  width: 20%;
-
 .slicknav_nav img {
-  @media only screen and (max-width: 600px) {
-	width: 20%;
-  }
+	@media only screen and (max-width: 800px) {
+  		width: 20%;
+	}
+
+	@media only screen and (max-width: 600px) {
+	  	width: 20%;
+	}
 }
 
 
@@ -452,8 +453,6 @@
   .sidebar-mob .catalogs.catalog__search_catalog {
 	background: none;}
 
-
-
   .slicknav_menu hr {
 	border: none;
 	width: 100%;
@@ -558,7 +557,6 @@
   .bx-wrapper {
 	margin-bottom: 0;
   }
-
-}
+  
 
 

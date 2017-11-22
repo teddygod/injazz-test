@@ -1,0 +1,37 @@
+{
+  "name": "injazz",
+  "version": "1.2.0",
+  "devDependencies": {
+    "jquery": "1.11.3",
+    "malihu-custom-scrollbar-plugin": "^3.1.5",
+    "doubletaptogo": "^0.4.1",
+    "inputmask": "^3.3.11",
+    "jquery-ui": "1.12.1",
+    "jquery.ns-autogrow": "^1.1.6"
+  },
+  "dependencies": {
+    "ion.rangeSlider": "ionrangeslider#^2.2.0",
+    "magnific-popup": "^1.1.0",
+    "fancybox": "^3.2.5",
+    "slicknav": "^1.0.10",
+    "bxslider-4": "^4.2.12",
+    "raty-fa": "^0.1.1",
+    "elevatezoom": "^2.2.3"
+  },
+  "overrides": {},
+  "authors": [
+    "Vladimir Perekrest <teddygod87@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/libs/",
+    "test",
+    "tests"
+  ]
+}

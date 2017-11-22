@@ -10,8 +10,15 @@
 // 	});
 // });
 
-
+$(window).on('load', function () {
+	var $preloader = $('#page-preloader'),
+		$spinner   = $preloader.find('.spinner');
+	$spinner.fadeOut();
+	$preloader.delay(350).fadeOut('slow');
+});
 $(document).ready(function () {
+
+
 
 	var $ds_mf = $('#ds-mf-slider'),
 		$ds_mf_attr = $('#ds-mf-slider-attributes'),
@@ -67,8 +74,9 @@ $(document).ready(function () {
 		$(window).scroll(function () {
 			var scroll = $(this).scrollTop()
 				,maxScroll = $(document).height() - $(window).height()
+				,heightWindow = $(window).height()
 			;
-			if ( scroll > maxScroll - 900) {
+			if ( scroll > maxScroll - heightWindow) {
 				btnUp.addClass("button-up_active")
 					.stop().animate({
 						"right" : 30+"px"
@@ -317,4 +325,10 @@ $(document).ready(function () {
 			$(this).next("label").addClass("RadioSelected");
 		}
 	});
+});
+$(function(){
+	//$('textarea').autogrow();
+	$('textarea').autogrow({vertical: true, horizontal: false});
+	//$('.callback textarea').autogrow({vertical: false, horizontal: true});
+	//$('textarea').autogrow({flickering: false});
 });

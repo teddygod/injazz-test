@@ -1,0 +1,15 @@
+{
+  "name": "raty-fa",
+  "homepage": "https://github.com/marcmascort/raty-fa",
+  "version": "0.1.1",
+  "_release": "0.1.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.1.1",
+    "commit": "2fa6b9d64474a61f38707f032fc4e10d4afc9e0b"
+  },
+  "_source": "https://github.com/marcmascort/raty-fa.git",
+  "_target": "^0.1.1",
+  "_originalSource": "raty-fa",
+  "_direct": true
+}
